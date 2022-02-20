@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/DataPreparation-informational?style=flatlogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Statistics-informational?style=flatlogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ProblemSolving-informational?style=flatlogoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visualisation-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visualization-informational?style=flatlogoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
