@@ -3,11 +3,13 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/pypi/pyversions/scikit-learn.svg)
-![](https://img.shields.io/badge/MachineLearning-informational?style=flatlogoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DeepLearning-informational?style=flatlogoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataPreparation-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Machine_Learning-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deep_Learning-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Preparation-informational?style=flatlogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Statistics-informational?style=flatlogoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ProblemSolving-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AB_Test-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL-informational?style=flatlogoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Problem_Solving-informational?style=flatlogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-informational?style=flatlogoColor=white&color=2bbc8a)
 
 
