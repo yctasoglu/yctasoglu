@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### Passionate Data Scientist about solving every kind of problem with data.
-#### Drive decisions by data while implementing solutions.
+#### Drive decisions by data while implementing solutions...
 
 [![Header](https://github.com/yctasoglu/yctasoglu/blob/main/header/C0F40A09-7EFC-4348-8E9F-C1F5D2CCE455.jpeg "Header")](https://some-url.dev/)
 ## 🔧 Technologies & Tools
